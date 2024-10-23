@@ -1,9 +1,9 @@
-import Image from "next/image";
+import Calculadora from "./components/Calculadora";
 
 export default function Home() {
   return (
-    <main>
-      Calculadora
+    <main className="flex items-center justify-center h-svh">
+      <Calculadora />
     </main>
   );
 }

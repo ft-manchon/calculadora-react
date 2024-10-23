@@ -3,8 +3,8 @@
 Desenvolvimento de uma calculadora que realiza os cálculos básicos de soma, subtração, multiplicação e divisão.
 
 # Screenshot
-<video width="320" height="240" src="images/calculadora.mp4" type="video/mp4">
-</video>
+![](images/screenshot1.png)
+![](images/screenshot2.png)
 
 # Built with
 - [React](https://reactjs.org/) - JS library
